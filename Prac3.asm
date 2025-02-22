@@ -7,7 +7,7 @@
 ;------------- inicializar ------------------------------------------
 ldi R24,INIT_VALUE
 ;------------- implementar ------------------------------------------
-;call delay1uS
+;call delay103uS
 ;call delay1mS
 ;call delay1S
 ;call myRand ; Retorna valor en R25
